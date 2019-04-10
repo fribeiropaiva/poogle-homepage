@@ -6,13 +6,13 @@ const Header = () => {
 			<nav className="nav-bar">
 				<ul className="menu">
 					<li className="menu-item">
-						<a href="www.gmail.com">Gmail</a>
+						<a href="#">Pmail</a>
 					</li>
 					<li className="menu-item">
-						<a href="https://www.google.com.br/imghp?hl=pt-BR&tab=ri">Images</a>
+						<a href="#">Imagens</a>
 					</li>
 					<li className="menu-item">
-						<i class="fas fa-th" />
+						<i className="fas fa-th" />
 					</li>
 
 					<button className="btn-login">Fazer login</button>
